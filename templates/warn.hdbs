@@ -1,0 +1,5 @@
+<ul>
+{{#each warnings}}
+<li>{{.}}</li>
+{{/each}}
+</ul>

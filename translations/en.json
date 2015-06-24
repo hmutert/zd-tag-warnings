@@ -1,0 +1,130 @@
+{
+  "app": {
+    "package": "tag-warnings",
+    "description": {
+      "value": "Receive warnings for selected tags in the ticket sidebar.",
+      "title": "app description"
+    },
+    "parameters": {
+      "tag1": {
+        "label": {
+          "value": "Tag 1",
+          "title": "Tag 1"
+        },
+        "helpText": {
+          "value": "The exact tag you want to warn on.",
+          "title": "A small helptext for the settings page."
+        }
+      },
+      "tag1warning": {
+        "label": {
+          "value": "Tag 1 Warning",
+          "title": "Tag 1 Warning"
+        },
+        "helpText": {
+          "value": "The warning you want to display.",
+          "title": "Another small helptext for the settings page."
+        }
+      },
+      "tag2": {
+        "label": {
+          "value": "Tag 2",
+          "title": "Tag 2"
+        }
+      },
+      "tag2warning": {
+        "label": {
+          "value":"Tag 2 Warning",
+          "title":"Tag 2 Warning"}
+      },
+      "tag3": {
+        "label": {
+          "value": "Tag 3",
+          "title": "Tag 3"
+        }
+      },
+      "tag3warning": {
+        "label": {
+          "value":"Tag 3 Warning",
+          "title":"Tag 3 Warning"}
+      },
+      "tag4": {
+        "label": {
+          "value": "Tag 4",
+          "title": "Tag 4"
+        }
+      },
+      "tag4warning": {
+        "label": {
+          "value":"Tag 4 Warning",
+          "title":"Tag 4 Warning"}
+      },
+      "tag5": {
+        "label": {
+          "value": "Tag 5",
+          "title": "Tag 5"
+        }
+      },
+      "tag5warning": {
+        "label": {
+          "value":"Tag 5 Warning",
+          "title":"Tag 5 Warning"}
+      },
+      "tag6": {
+        "label": {
+          "value": "Tag 6",
+          "title": "Tag 6"
+        }
+      },
+      "tag6warning": {
+        "label": {
+          "value":"Tag 6 Warning",
+          "title":"Tag 6 Warning"}
+      },
+      "tag7": {
+        "label": {
+          "value": "tag 7",
+          "title": "Tag 7"
+        }
+      },
+      "tag7warning": {
+        "label": {
+          "value":"Tag 7 Warning",
+          "title":"Tag 7 Warning"}
+      },
+      "tag8": {
+        "label": {
+          "value": "Tag 8",
+          "title": "Tag 8"
+        }
+      },
+      "tag8warning": {
+        "label": {
+          "value":"Tag 8 Warning",
+          "title":"Tag 8 Warning"}
+      },
+      "tag9": {
+        "label": {
+          "value": "Tag 9",
+          "title": "Tag 9"
+        }
+      },
+      "tag9warning": {
+        "label": {
+          "value":"Tag 9 Warning",
+          "title":"Tag 9 Warning"}
+      },
+      "tag10": {
+        "label": {
+          "value": "Tag 10",
+          "title": "Tag 10"
+        }
+      },
+      "tag10warning": {
+        "label": {
+          "value":"Tag 10 Warning",
+          "title":"Tag 10 Warning"}
+      }
+    }
+  }
+}

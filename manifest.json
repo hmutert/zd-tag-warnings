@@ -1,0 +1,97 @@
+{
+  "name": "Tag Warnings",
+  "author": {
+    "name": "Tim Harrison",
+    "email": "tharrison@kixeye.com",
+    "url": "http://kixeye.com"
+  },
+  "defaultLocale": "en",
+  "private": true,
+  "location": "ticket_sidebar",
+  "version": "1.0",
+  "frameworkVersion": "1.0",
+  "parameters" : [
+    {"name":"tag1",
+      "type":"text",
+      "required": true
+    },
+
+    {"name":"tag1warning",
+      "type":"text",
+      "required": true
+    },
+
+    {"name":"tag2",
+      "type":"text"
+    },
+
+    {"name":"tag2warning",
+      "type":"text"
+    },
+
+    {"name":"tag3",
+      "type":"text"
+    },
+
+    {"name":"tag3warning",
+      "type":"text"
+    },
+
+    {"name":"tag4",
+      "type":"text"
+    },
+
+    {"name":"tag4warning",
+      "type":"text"
+    },
+
+    {"name":"tag5",
+      "type":"text"
+    },
+
+    {"name":"tag5warning",
+      "type":"text"
+    },
+
+    {"name":"tag6",
+      "type":"text"
+    },
+
+    {"name":"tag6warning",
+      "type":"text"
+    },
+
+    {"name":"tag7",
+      "type":"text"
+    },
+
+    {"name":"tag7warning",
+      "type":"text"
+    },
+
+    {"name":"tag8",
+      "type":"text"
+    },
+
+    {"name":"tag8warning",
+      "type":"text"
+    },
+
+    {"name":"tag9",
+      "type":"text"
+    },
+
+    {"name":"tag9warning",
+      "type":"text"
+    },
+
+    {"name":"tag10",
+      "type":"text"
+    },
+
+    {"name":"tag10warning",
+      "type":"text"
+    }
+
+  ]
+}
